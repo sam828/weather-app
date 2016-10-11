@@ -1,0 +1,10 @@
+If Celsius temperature is less than or equal to zero, season = winter
+If Celsius temperature is >0 and less than or equal to 10, season = fall
+If Celsius tempearture is >10 but less than or equal to 20, season = spring
+If Celsius temperature is >20, season = summer
+
+if season is winter winter image shows
+if season is summer summer image shows
+if season is spring, spring image shows
+if season is fall, fall image shows
+
